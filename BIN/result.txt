@@ -1,0 +1,8 @@
+new.txt,字符数: 3
+new.txt,单词数: 1
+new.txt,行数: 1
+new.txt,代码行/空行/注释行: 1/0/0
+ttt.txt,字符数: 61
+ttt.txt,单词数: 13
+ttt.txt,行数: 7
+ttt.txt,代码行/空行/注释行: 5/1/1
